@@ -5,7 +5,7 @@ using namespace std;
 class One
 {
 public:
-	One(){}
+	One(){cout<<"IN CLASS ONE CONSTRUCTOR\n";}
 
 };
 
