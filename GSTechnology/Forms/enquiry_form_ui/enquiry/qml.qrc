@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>personalEnquiryForm/PersonalInfo.qml</file>
+        <file>educationalEnquiryForm/EducationalInfo.qml</file>
+        <file>financialEnquiryForm/FinancialInfo.qml</file>
+        <file>../images/GSTechnologyLogo.jpg</file>
+        <file>formHeader/GSTechnologyFormHeader.qml</file>
+        <file>formHeader/GSTechnologyLogoHeader.qml</file>
+        <file>formHeader/GSTechnologyTextHeader.qml</file>
+        <file>gstechEmployeeForm/GSTechnologyEmployeeRecordForm.qml</file>
+        <file>gstechStudentForm/GSTechnologyStudentRecordForm.qml</file>
+        <file>personalEnquiryForm/component/PersonalInformation.qml</file>
+        <file>personalEnquiryForm/component/PersonalFullName.qml</file>
+        <file>personalEnquiryForm/component/PersonalDOB.qml</file>
+        <file>personalEnquiryForm/component/PersonalEmailId.qml</file>
+        <file>personalEnquiryForm/component/PersonalGender.qml</file>
+        <file>personalEnquiryForm/component/PersonalMobileNumber.qml</file>
+    </qresource>
+</RCC>
